@@ -1,0 +1,17 @@
+.card-img-top{
+    height: 260px;
+    object-fit: cover;
+
+}
+.albums .card:hover{
+    outline: 4px solid cadetblue;
+}
+.col{
+    padding-left: 22px;
+    padding-right: 2px;
+
+}
+.card-text{
+    color: #151818;
+    font-size: 16px;
+}

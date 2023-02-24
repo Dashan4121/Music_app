@@ -1,0 +1,35 @@
+.logo-text{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgba(144, 201, 203, 0.27);
+    padding: 10px 10px 15px 10px;
+    align-items: center;
+    border-radius: 24px;
+    cursor: pointer;
+    line-height: 14px;
+    margin-bottom: 0;
+}
+header .nav-link{
+    padding: 0;
+    color: #616161;
+    font-size: 18px;
+    margin-right: 10px;
+}
+header .nav-link:hover{
+    color: #00d3d9;
+}
+header .nav-link:active{
+    color: #0099ff;
+}
+input[type="search"]{
+    border: none;
+}
+.plus-badge{
+    font-size: 12px;
+    padding: 10px 10px;
+    align-items: center;
+    background: cadetblue;
+    border-radius: 24px;
+    cursor: pointer;
+    line-height: 14px;
+}
